@@ -12,3 +12,4 @@ new line
 - файлы override.tf, override.tf.json; файлы заканчивающиеся на _override.tf или _override.tf.json
 - скрытые файлы .terraform.tfstate.lock.info
 - скрытые файлы .terraformrc и файлы terraform.rc
+new line
